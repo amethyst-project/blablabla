@@ -9,13 +9,6 @@
               ],
     "files":  [
                   {
-                      "path":  ".gitignore",
-                      "version":  "2026.06.27.1",
-                      "size":  63,
-                      "sha256":  "9ca0bce1802299f3d8b3300db2ea51328208ffc4eb0ba70107476446da97d718",
-                      "downloadUrl":  "https://cdn.jsdelivr.net/gh/amethyst-project/blablabla@2026.06.27.1/.gitignore"
-                  },
-                  {
                       "path":  ".launcher/profile.json",
                       "version":  "2026.06.27.1",
                       "size":  376,

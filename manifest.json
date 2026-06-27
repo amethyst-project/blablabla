@@ -9,6 +9,13 @@
               ],
     "files":  [
                   {
+                      "path":  ".gitignore",
+                      "version":  "2026.06.27.1",
+                      "size":  63,
+                      "sha256":  "9ca0bce1802299f3d8b3300db2ea51328208ffc4eb0ba70107476446da97d718",
+                      "downloadUrl":  "https://cdn.jsdelivr.net/gh/amethyst-project/blablabla@2026.06.27.1/.gitignore"
+                  },
+                  {
                       "path":  ".launcher/profile.json",
                       "version":  "2026.06.27.1",
                       "size":  376,
@@ -10087,13 +10094,6 @@
                       "size":  669560,
                       "sha256":  "bd6b3fe045105a071922969756e821a418b0414f29693f7cd5e34f26f5db98d9",
                       "downloadUrl":  "https://cdn.jsdelivr.net/gh/amethyst-project/blablabla@2026.06.27.1/clients/Project%20Amethyst/mods/lodestone-1.20.1-1.6.4.252.jar.disabled"
-                  },
-                  {
-                      "path":  "clients/Project Amethyst/mods/mods.zip",
-                      "version":  "2026.06.27.1",
-                      "size":  120343231,
-                      "sha256":  "9e5e6cb6391ef08a02f07255dfe6f435a37fa3d060e6ebf4c795c64db23ff311",
-                      "downloadUrl":  "https://github.com/amethyst-project/blablabla/releases/download/2026.06.27.1/clients_Project_Amethyst_mods_mods.zip"
                   },
                   {
                       "path":  "clients/Project Amethyst/mods/oculus-mc1.20.1-1.8.0.jar",
@@ -39521,7 +39521,7 @@
                       "version":  "2026.06.27.1",
                       "size":  84202863,
                       "sha256":  "3e80e6d8af80beec14e9d883287521c679e6fcf45f2d832b137b1271de119d16",
-                      "downloadUrl":  "https://github.com/amethyst-project/blablabla/releases/download/2026.06.27.1/runtime_meta_java_versions_zulu17.64.17-ca-jre17.0.18-win_x64_lib_modules"
+                      "downloadUrl":  "https://raw.githubusercontent.com/amethyst-project/blablabla/2026.06.27.1/runtime/meta/java_versions/zulu17.64.17-ca-jre17.0.18-win_x64/lib/modules"
                   },
                   {
                       "path":  "runtime/meta/java_versions/zulu17.64.17-ca-jre17.0.18-win_x64/lib/psfont.properties.ja",

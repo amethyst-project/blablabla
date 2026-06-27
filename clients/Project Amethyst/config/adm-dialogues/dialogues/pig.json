@@ -1,0 +1,75 @@
+{
+  "title": "Pig",
+  "speaker": "Pig",
+  "text_speed": 2,
+  "text_color": "#f7d8da",
+  "speaker_color": "#ffb8c6",
+  "sound": {
+    "mode": "repeating",
+    "text": "minecraft:entity.pig.ambient",
+    "volume": 0.18,
+    "pitch": 1.35,
+    "letter_interval": 4
+  },
+  "style": {
+    "outer_color": "#12000000",
+    "text_background": "#85000000",
+    "choices_background": "#78351C28",
+    "divider_color": "#44FFFFFF",
+    "button_color": "#66351C28",
+    "button_hover_color": "#944D2A39",
+    "button_text_color": "#FFE3EA"
+  },
+  "random_start": [
+    "oink_1",
+    "oink_2",
+    "oink_3",
+    "blood"
+  ],
+  "nodes": {
+    "oink_1": {
+      "text": "хрю",
+      "choices": [
+        {
+          "text": "Погладить свинью.",
+          "close": true
+        }
+      ]
+    },
+    "oink_2": {
+      "text": "хрю хрю",
+      "choices": [
+        {
+          "text": "Понятно.",
+          "close": true
+        }
+      ]
+    },
+    "oink_3": {
+      "text_speed": 1,
+      "text": "хрююююююююююю",
+      "choices": [
+        {
+          "text": "Отойти.",
+          "close": true
+        }
+      ]
+    },
+    "blood": {
+      "text_speed": 4,
+      "sound": {
+        "mode": "full",
+        "full": "minecraft:entity.pig.hurt",
+        "volume": 0.8,
+        "pitch": 0.8
+      },
+      "text": "&cBLOOD FOR THE BLOOD GOD",
+      "choices": [
+        {
+          "text": "Сделать вид, что ничего не слышал.",
+          "close": true
+        }
+      ]
+    }
+  }
+}

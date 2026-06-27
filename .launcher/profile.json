@@ -1,0 +1,12 @@
+{
+  "displayName": "Project Amethyst",
+  "minecraftVersion": "1.20.1",
+  "loader": "forge",
+  "loaderVersion": "47.4.18",
+  "versionName": "1.20.1-47.4.18",
+  "gameDirectory": "clients/Project Amethyst",
+  "metaDirectory": "runtime/meta",
+  "javaPath": "runtime/meta/java_versions/zulu17.64.17-ca-jre17.0.18-win_x64/bin/javaw.exe",
+  "memoryMb": 4096,
+  "serverAddress": ""
+}

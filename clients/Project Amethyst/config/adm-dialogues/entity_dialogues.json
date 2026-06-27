@@ -1,0 +1,6 @@
+{
+  "entities": {
+    "minecraft:pig": "pig.json"
+  },
+  "default": ""
+}

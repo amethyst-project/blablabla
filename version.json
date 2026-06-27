@@ -1,0 +1,11 @@
+{
+    "launcherVersion":  "1.0.0",
+    "contentVersion":  "2026.06.27.1",
+    "requiredLauncherVersion":  "1.0.0",
+    "manifestUrl":  "https://raw.githubusercontent.com/amethyst-project/blablabla/main/manifest.json",
+    "notes":  [
+                  "Project Amethyst",
+                  "Minecraft 1.20.1",
+                  "Forge 47.4.18"
+              ]
+}

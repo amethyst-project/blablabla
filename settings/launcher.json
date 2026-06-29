@@ -1,0 +1,9 @@
+{
+  "serverName": "Project:Amethyst",
+  "accent": "#B46CFF",
+  "logo": "logo.png",
+  "background": "background.jpg",
+  "buildIcons": {
+    "Project Amethyst": "amethyst.png"
+  }
+}

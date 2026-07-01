@@ -3,7 +3,7 @@
     "requiredLauncherVersion":  "1.0.0",
     "contentVersion":  "2026.07.02.1",
     "notes":  [
-                  "Что изменилось"
+                  "First_Official_Version"
               ],
     "archives":  [
                      {
@@ -15,9 +15,9 @@
                      },
                      {
                          "name":  "modpack.zip",
-                         "size":  8410609074,
-                         "sha256":  "799596bff070ab5a5fd90e4650187d50ed499835dfd925a056bf81f15a734816",
-                         "contentHash":  "9492c64ef176408b28e7ce417664346cdbb01bdb292b145bfdd7604b77780a4a",
+                         "size":  1290093685,
+                         "sha256":  "8a2e0f810bf1af6946c9ec7a80279019820d4a5a7c449cd2e3923bd881d9bf88",
+                         "contentHash":  "69580b375883d6253bc490e185d0bdd90cd10be0c513c76275a7adf64cf20d90",
                          "downloadUrl":  "https://github.com/amethyst-project/blablabla/releases/download/2026.07.02.1/modpack.zip"
                      }
                  ]

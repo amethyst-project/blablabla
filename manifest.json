@@ -1,24 +1,24 @@
 {
     "launcherVersion":  "1.0.0",
     "requiredLauncherVersion":  "1.0.0",
-    "contentVersion":  "2026.06.28.1",
+    "contentVersion":  "2026.06.30.1",
     "notes":  [
-                  "Project Amethyst",
-                  "Minecraft 1.20.1",
-                  "Forge 47.4.18"
+                  "Обновление модов и конфигов"
               ],
     "archives":  [
                      {
                          "name":  "runtime.zip",
-                         "size":  759271801,
-                         "sha256":  "e0395c45a47cc6a1689f8cfabac880916ad4b148be51c0d4a56f197d9853588f",
-                         "downloadUrl":  "https://github.com/amethyst-project/blablabla/releases/download/2026.06.28.1/runtime.zip"
+                         "size":  759449348,
+                         "sha256":  "5b4d041daaf2793265a4e40b7a7b24c153336e391f1de61e2814471be05c6586",
+                         "contentHash":  "d7e76f1705c7241f3f5527e8cb1ad094876467b5d8bcaad5cb30b0d0e3b2e0b5",
+                         "downloadUrl":  "https://github.com/amethyst-project/blablabla/releases/download/2026.06.30.1/runtime.zip"
                      },
                      {
                          "name":  "modpack.zip",
-                         "size":  281685704,
-                         "sha256":  "f8326b1cc8d581188132a52bbdb59ce60b8051ea152d7aabda65d6cc592f075c",
-                         "downloadUrl":  "https://github.com/amethyst-project/blablabla/releases/download/2026.06.28.1/modpack.zip"
+                         "size":  1268124524,
+                         "sha256":  "5cd586238ec92a2e94409d3b5647ad8629ee50e2c6389843d708974de0975cf0",
+                         "contentHash":  "7e242edf72fa7551fcfe112b6a5dfdebebdfda0444316ba337972d37052c69ee",
+                         "downloadUrl":  "https://github.com/amethyst-project/blablabla/releases/download/2026.06.30.1/modpack.zip"
                      }
                  ]
 }

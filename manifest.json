@@ -1,9 +1,9 @@
 {
     "launcherVersion":  "1.0.0",
     "requiredLauncherVersion":  "1.0.0",
-    "contentVersion":  "2026.06.30.1",
+    "contentVersion":  "2026.07.02.1",
     "notes":  [
-                  "Обновление модов и конфигов"
+                  "Что изменилось"
               ],
     "archives":  [
                      {
@@ -15,10 +15,10 @@
                      },
                      {
                          "name":  "modpack.zip",
-                         "size":  1268124524,
-                         "sha256":  "5cd586238ec92a2e94409d3b5647ad8629ee50e2c6389843d708974de0975cf0",
-                         "contentHash":  "7e242edf72fa7551fcfe112b6a5dfdebebdfda0444316ba337972d37052c69ee",
-                         "downloadUrl":  "https://github.com/amethyst-project/blablabla/releases/download/2026.06.30.1/modpack.zip"
+                         "size":  8410609074,
+                         "sha256":  "799596bff070ab5a5fd90e4650187d50ed499835dfd925a056bf81f15a734816",
+                         "contentHash":  "9492c64ef176408b28e7ce417664346cdbb01bdb292b145bfdd7604b77780a4a",
+                         "downloadUrl":  "https://github.com/amethyst-project/blablabla/releases/download/2026.07.02.1/modpack.zip"
                      }
                  ]
 }
